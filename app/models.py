@@ -25,13 +25,13 @@ class Product:
 # Daftar awal produk (peralatan komputer)
 products = [
     Product(1, 'Keyboard Mechanical', 500000, 15),
-    Product(2, 'Mouse Gaming', 300000, 20),
-    Product(3, 'Monitor LED 24 Inch', 2000000, 10),
-    Product(4, 'Headset Gaming', 750000, 8),
+    Product(2, 'Mouse ', 300000, 20),
+    Product(3, 'Monitor', 2000000, 10),
+    Product(4, 'Headset ', 750000, 8),
     Product(5, 'RAM DDR4 16GB', 1200000, 12),
     Product(6, 'SSD 1TB', 1500000, 7),
-    Product(7, 'Power Supply 650W', 850000, 5),
-    Product(7, 'Power Supply 650W', 850000, 5),
+    Product(7, 'leptop', 850000, 5),
+    Product(7, 'kibot', 850000, 5),
     Product(7, 'casan', 850000, 5),
     Product(8, 'Casing CPU RGB', 1000000, 9),
     Product(9, 'Motherboard ATX', 1800000, 4),
