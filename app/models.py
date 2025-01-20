@@ -31,7 +31,12 @@ products = [
     Product(5, 'RAM DDR4 16GB', 1200000, 12),
     Product(6, 'SSD 1TB', 1500000, 7),
     Product(7, 'Power Supply 650W', 850000, 5),
+    Product(7, 'Power Supply 650W', 850000, 5),
+    Product(7, 'casan', 850000, 5),
     Product(8, 'Casing CPU RGB', 1000000, 9),
     Product(9, 'Motherboard ATX', 1800000, 4),
     Product(10, 'VGA NVIDIA RTX 3060', 6000000, 3),
+    Product(10, 'henpone', 6000000, 3),
+    Product(10, 'kipas', 6000000, 3),
+    Product(10, 'tas', 6000000, 3),
 ]
