@@ -39,4 +39,6 @@ products = [
     Product(10, 'henpone', 6000000, 3),
     Product(10, 'kipas', 6000000, 3),
     Product(10, 'tas', 6000000, 3),
+    Product(10, 'bayu', 6000000, 3),
+    Product(10, 'adul', 6000000, 3),
 ]
